@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="DotNetMastery.Day1/DotNetMastery.Day1.csproj" />
   <Project Path="DotNetMastery.Day2/DotNetMastery.Day2.csproj" Id="655d8207-acdb-427e-871e-e2c949d76226" />
+  <Project Path="DotNetMastery.Day3/DotNetMastery.Day3.csproj" Id="39d3a112-0ff9-468f-8ac2-b67b6a5b9dab" />
 </Solution>
