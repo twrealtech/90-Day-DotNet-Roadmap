@@ -49,7 +49,7 @@ double n1 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Enter second number: ");
 double n2 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Enter Operation(+, -, *, /): ");
-string op = Console.ReadLine();
+string op = Console.ReadLine()!;
 
 switch (op)
 {
