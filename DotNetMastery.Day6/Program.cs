@@ -40,7 +40,7 @@ static string GetGrade(int marks)
 }
 
 
-Console.WriteLine($"Multiplication result: {n1 * n2}");
+Console.WriteLine($"Multiplication result: {Multiply(n1 , n2)}");
 
 Console.Write("Enter your Marks:");
 int m = Convert.ToInt32(Console.ReadLine());
