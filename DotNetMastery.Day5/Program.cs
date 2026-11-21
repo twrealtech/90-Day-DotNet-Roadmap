@@ -26,7 +26,7 @@ students.Add("Ahmed");
 Console.Write("Enter new student name: ");
 students.Add(Console.ReadLine()!);
 
-Console.WriteLine("All students:");
+Console.WriteLine("All students names:");
 foreach (var s in students)
 {
     Console.WriteLine($"- {s}");
