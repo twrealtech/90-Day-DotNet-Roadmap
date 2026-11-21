@@ -1,4 +1,4 @@
-﻿Console.WriteLine("== Student Marks -Arraty ==");
+﻿Console.WriteLine("== Student Marks -Array ==");
 int[] marks = { 85, 90, 78, 92, 88 };
 
 for (int i = 0; i < marks.Length; i++)

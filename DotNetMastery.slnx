@@ -4,4 +4,5 @@
   <Project Path="DotNetMastery.Day3/DotNetMastery.Day3.csproj" Id="39d3a112-0ff9-468f-8ac2-b67b6a5b9dab" />
   <Project Path="DotNetMastery.Day4/DotNetMastery.Day4.csproj" Id="6e93093f-f3b6-42d1-aaee-ae85f048094a" />
   <Project Path="DotNetMastery.Day5/DotNetMastery.Day5.csproj" Id="d9c6e5c2-2e5d-4a34-9dc1-77d4d1ba301b" />
+  <Project Path="DotNetMastery.Day6/DotNetMastery.Day6.csproj" Id="1969e54b-cc9c-4b1a-8d30-d0d523e5978f" />
 </Solution>
